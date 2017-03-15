@@ -209,13 +209,13 @@ When an expression contains more than one operator, the order of evaluation depe
 
 > 表达式可能会包含不止一个运算符，这些不同的运算先后次序就是运算符的优先级。对于数学运算符来说，Python就遵循着数学上的规则。下面这个PEMDAS、是用来记忆这些优先规则的好方法：
 
-* Parentheses have the highest precedence and can be used to force an expression to evaluate in the order you want. Since expressions in parentheses are evaluated first, 2 _ \(3-1\) is 4, and \(1+1\)\*\*\(5-2\) is 8. You can also use parentheses to make an expression easier to read, as in\(minute _ 100\) / 60, even if it doesn’t change the result.
+* Parentheses have the highest precedence and can be used to force an expression to evaluate in the order you want. Since expressions in parentheses are evaluated first, 2 \*\* \(3-1\) is 4, and \(1+1\)\*\*\(5-2\) is 8. You can also use parentheses to make an expression easier to read, as in\(minute _ 100\) / 60, even if it doesn’t change the result.
 
-  > 括号内的内容最优先，大家可以用括号来强制某系表达式有限计算。所以2_（3-1）就等于4了，（1+1）\*\*（5-2）就是2的立方，等于8。使用括号也有助于让你的表达式读起来更好理解，比如\(minute _ 100\) / 60，这个也不影响计算结果，不过看起来易于理解。
+  > 括号内的内容最优先，大家可以用括号来强制某系表达式有限计算。所以2\*\*（3-1）就等于4了，（1+1）\*\*（5-2）就是2的立方，等于8。使用括号也有助于让你的表达式读起来更好理解，比如\(minute _ 100\) / 60，这个也不影响计算结果，不过看起来易于理解。
 
-* Exponentiation has the next highest precedence, so 1 + 2**3 is 9, not 27, and 2 \* 3**2 is 18, not 36.
+* Exponentiation has the next highest precedence, so 1 + 2\*\*3 is 9, not 27, and 2 \* 3\*\*2 is 18, not 36.
 
-  > 除了括号，所有运算符中，乘方最优先，所以1 + 2**3的结果是9而不是27，2\*3**2结果是18，而不是36。
+  > 除了括号，所有运算符中，乘方最优先，所以1 + 2\*\*3的结果是9而不是27，2\*3\*\*2结果是18，而不是36。
 
 * Multiplication and Division have higher precedence than Addition andSubtraction. So 2\*3-1 is 5, not 4, and 6+4/2 is 8, not 5.
 
