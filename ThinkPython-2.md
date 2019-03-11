@@ -69,7 +69,7 @@ SyntaxError: invalid syntax
 
 It turns out that class is one of Python’s keywords. The interpreter uses keywords to recognize the structure of the program, and they cannot be used as variable names.
 
-> 因为clas是Python里面的一个关键词啦。解释器要用关键词来识别程序的结构，这些关键词是不能用来做变量名的。
+> 因为classs是Python里面的一个关键词啦。解释器要用关键词来识别程序的结构，这些关键词是不能用来做变量名的。
 
 Python 3 has these keywords:
 
