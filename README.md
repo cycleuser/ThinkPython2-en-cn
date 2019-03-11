@@ -6,10 +6,7 @@
 
 此处为 markdown 的文本文件。与我[博客](http://blog.cycleuser.org)的内容同步.
 
-此处仅保留双语版本，纯中文版迁移到[ThinkPython-CN](https://github.com/cycleuser/ThinkPython-CN\)
-
-可以到：[这里在线阅读和下载电子文档](https://www.gitbook.com/book/cycleuser/think-python/details)。
-
+此处仅保留双语版本，纯中文版迁移到[ThinkPython-CN](https://github.com/cycleuser/ThinkPython-CN)
 
 可以到：[这里在线阅读和下载电子文档](https://www.gitbook.com/book/cycleuser/think-python/details)。
 
