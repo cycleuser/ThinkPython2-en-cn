@@ -266,8 +266,29 @@ def find(word, letter):
         if word[index] == letter:
             return index
         index = index + 1
-            return -1
+    return -1
 ```
+
+
+```Python
+# 改进的find函数,利用列表收集字母letter在单词word中出现的全部位置.
+def find(word, letter): 
+    index = 0
+
+    result_list=[]
+
+    while index < len(word):
+        if word[index] == letter:
+            
+            result_list.append(index) 
+            
+        index = index + 1
+
+    return result_list
+
+find('banana','a')
+```
+
 
 In a sense, find is the inverse of the \[\] operator. Instead of taking an index and extracting the corresponding character, it takes a character and finds the index where that character appears. If the character is not found, the function returns -1.
 
@@ -295,7 +316,7 @@ word = 'banana'
 count = 0
 for letter in word:
     if letter == 'a':
-    count = count + 1
+        count = count + 1
     print(count)
 ```
 
