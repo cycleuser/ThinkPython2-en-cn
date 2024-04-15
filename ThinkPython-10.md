@@ -80,7 +80,7 @@ Figure 10.1 shows the state diagram for cheeses, numbers and empty:
 
 ---
 
-![Figure 10.1: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure10.1- State diagram.png)  
+![Figure 10.1: State diagram](./images/figure10.1.jpg)  
 Figure 10.1: State diagram.
 
 ---
@@ -483,7 +483,7 @@ We know that a and b both refer to a string, but we don’t know whether they re
 
 ---
 
-![Figure 10.2: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure10.2- State diagram.png)  
+![Figure 10.2: State diagram](./images/figure10.2.jpg)  
 Figure 10.2: State diagram.
 
 ---
@@ -518,7 +518,7 @@ So the state diagram looks like Figure 10.3.
 
 ---
 
-![](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure10.3- State diagram.png)  
+![](./images/figure10.3.jpg)  
 Figure 10.3: State diagram.
 
 ---
@@ -551,7 +551,7 @@ The state diagram looks like Figure 10.4.
 
 ---
 
-![Figure 10.4: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure10.4- State diagram.png)  
+![Figure 10.4: State diagram](./images/figure10.4.jpg))  
 Figure 10.4: State diagram.
 
 ---
@@ -618,7 +618,7 @@ The parameter t and the variable letters are aliases for the same object. The st
 
 ---
 
-![Figure 10.5: Stack diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure10.5- Stack diagram.png)  
+![Figure 10.5: Stack diagram](./images/figure10.5.jpg)  
 Figure 10.5: Stack diagram.
 
 ---

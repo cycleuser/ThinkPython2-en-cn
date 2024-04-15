@@ -401,7 +401,7 @@ Figure 6.1 shows what the stack diagram looks like for this sequence of function
 >
 > ---
 >
-> ![Figure 6.1: Stack diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython6.1.png)  
+> ![Figure 6.1: Stack diagram](./images/figure6.1.jpg)  
 > Figure 6.1: Stack diagram.
 >
 > ---

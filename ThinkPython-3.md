@@ -421,7 +421,7 @@ To keep track of which variables can be used where, it is sometimes useful to dr
 Each function is represented by a frame. A frame is a box with the name of a function beside it and the parameters and variables of the function inside it. The stack diagram for the previous example is shown in Figure 3.1.
 >每个函数都用一个框架来表示。框架的边上要标明函数的名字，框内填写函数内部的形参和变量。上文中样例代码的栈图如下图3.1所示。
 
-![Figure 3.1: Stack diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonfigure3.1.png)
+![Figure 3.1: Stack diagram.](./images/figure3.1.jpg)
 Figure 3.1: Stack diagram.
 >图3.1 栈图
 
@@ -737,7 +737,7 @@ Note: This exercise should be done using only the statements and other features 
 1.Write a function that draws a grid like the following:
 >写一个函数，输出如下：
 
-![](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonExcise3.14.png)
+![](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonExcise3.14.jpg)
 
 
 

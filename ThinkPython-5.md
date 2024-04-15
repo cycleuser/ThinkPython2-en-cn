@@ -359,7 +359,7 @@ Figure 5.1 shows a stack diagram for countdown called with n = 3.
 
 ---
 
-![Figure 5.1: Stack diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure5.1.png)  
+![Figure 5.1: Stack diagram.](./images/figure5.1.jpg)  
 Figure 5.1: Stack diagram.
 
 ---
@@ -713,7 +713,7 @@ def draw(t, length, n):
 
 ---
 
-![Figure 5.2: A Koch curve.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure5.2Koch curve.png)  
+![Figure 5.2: A Koch curve.](./images/figure5.2.jpg)  
 Figure 5.2: A Koch curve.
 
 ---

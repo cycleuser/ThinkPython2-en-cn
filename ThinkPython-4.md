@@ -553,7 +553,7 @@ Download the code in this chapter from [here](http://thinkpython2.com/code/polyg
 
 
 ________________________________________
- ![Turtle flowers](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonExercise4.2.png)
+ ![Turtle flowers](./images/figure4.2.jpg)
 Figure 4.1: Turtle flowers.
 ________________________________________
 ###Exercise 2 练习2
@@ -567,7 +567,7 @@ Solution 样例： http://thinkpython2.com/code/flower.py,
 also requires 同时需要： http://thinkpython2.com/code/polygon.py.
 ________________________________________
  
-![Turtle pies](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonExercise4.3.png)
+![Turtle pies](./images/figure4.3.jpg)
 Figure 4.2: Turtle pies.
 ________________________________________
 

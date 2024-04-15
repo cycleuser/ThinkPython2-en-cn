@@ -31,7 +31,7 @@ A common way to represent variables on paper is to write the name with an arrow 
 
 ---
 
-![Figure 2.1: State diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython2.1.png)  
+![Figure 2.1: State diagram.](./images/figure2.1.jpg)  
 Figure 2.1: State diagram.
 
 ---

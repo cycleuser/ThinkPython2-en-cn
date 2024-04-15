@@ -324,7 +324,7 @@ When you create a new item, dbm updates the database file.
 > 创建一个新的项的时候，dbm 就会对数据库文件进行更新了。
 
 ```Python
->>> db['cleese.png'] = 'Photo of John Cleese.'
+>>> db['cleese.jpg'] = 'Photo of John Cleese.'
 ```
 
 When you access one of the items, dbm reads the file:
@@ -332,7 +332,7 @@ When you access one of the items, dbm reads the file:
 > 读取里面的某一项的时候，dbm 就读取数据库文件：
 
 ```Python
->>>db['cleese.png']
+>>>db['cleese.jpg']
 b'Photo of John Cleese.'
 ```
 
@@ -345,8 +345,8 @@ If you make another assignment to an existing key, dbm replaces the old value:
 > 如果对一个已经存在值的键进行赋值，dbm 就会把旧的值替换成新的值：
 
 ```Python
->>> db['cleese.png'] = 'Photo of John Cleese doing a silly walk.'
->>> db['cleese.png']
+>>> db['cleese.jpg'] = 'Photo of John Cleese doing a silly walk.'
+>>> db['cleese.jpg']
 b'Photo of John Cleese doing a silly walk.'
 ```
 

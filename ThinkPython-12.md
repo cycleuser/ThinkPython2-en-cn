@@ -546,7 +546,7 @@ There are two ways to represent tuples in a state diagram. The more detailed ver
 
 ________________________________________
 
-![Figure 12.1: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython12.1.png)
+![Figure 12.1: State diagram](./images/figure12.1.jpg)
 
 Figure 12.1: State diagram.
 ________________________________________
@@ -562,7 +562,7 @@ But in a larger diagram you might want to leave out the details. For example, a 
 
 ________________________________________
 
-![Figure 12.2: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython12.2.png)
+![Figure 12.2: State diagram](./images/figure12.2.jpg)
 
 Figure 12.2: State diagram.
 ________________________________________

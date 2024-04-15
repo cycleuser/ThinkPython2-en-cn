@@ -52,7 +52,7 @@ Write a boolean function called is_after that takes two Time objects, t1 andt2, 
 
 
 ________________________________________
-![Figure 16.1: Object diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython16.1.png)
+![Figure 16.1: Object diagram.](./images/figure16.1.jpg)
 Figure 16.1: Object diagram.
 ________________________________________
 

@@ -166,7 +166,7 @@ Jack of Hearts
 
 
 ________________________________________
-![Figure 18.1: Object diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython18.1.png&e=1455456651&token=i0GfN7HOFwF3ORI4fXIpXHhqdbBMONrJIhw9f_Bu:5yrZgm4c4VibfxGsjVEg-081epk)
+![Figure 18.1: Object diagram.](./images/figure18.1.jpg)
 Figure 18.1: Object diagram.
 ________________________________________
 
@@ -589,7 +589,7 @@ A class diagram is a graphical representation of these relationships. For exampl
 
 
 ________________________________________
-![Figure 18.2: Class diagram.](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython18.2.png&e=1455456651&token=i0GfN7HOFwF3ORI4fXIpXHhqdbBMONrJIhw9f_Bu:um5CtqLL53Ofw_6qWmqMKP0NuJ0)
+![Figure 18.2: Class diagram.](./images/figure18.2.jpg)
 Figure 18.2: Class diagram.
 ________________________________________
 

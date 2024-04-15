@@ -138,7 +138,7 @@ The following diagram shows the result of these assignments. A state diagram tha
 >下面的图表展示了上面这些赋值的结果。用于展示一个类及其属性的状态图也叫做类图；比如图15.1就是一例。
 
 ________________________________________
-![Figure 15.1: Object diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython15.1.png)
+![Figure 15.1: Object diagram](./images/figure15.1.jpg)
 Figure 15.1: Object diagram.
 ________________________________________
 
@@ -286,7 +286,7 @@ The expression box.corner.x means, “Go to the object box refers to and select 
 
 
 ________________________________________
-![Figure 15.2: Object diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython15.2.png)
+![Figure 15.2: Object diagram](./images/figure15.2.jpg)
 Figure 15.2: Object diagram.
 ________________________________________
 
@@ -448,7 +448,7 @@ True
 
 
 ________________________________________
-![Figure 15.3: Object diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython15.3.png)
+![Figure 15.3: Object diagram](./images/figure15.3.jpg)
 Figure 15.3: Object diagram.
 ________________________________________
 

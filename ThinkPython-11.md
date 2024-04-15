@@ -326,7 +326,7 @@ Here is an example:
 
 ---
 
-![Figure 11.1: State diagram](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython11.1.png)  
+![Figure 11.1: State diagram](./images/figure11.1.jpg)  
 Figure 11.1: State diagram.
 
 ---
@@ -374,7 +374,7 @@ To understand why, consider Figure 11.2, which shows the call graph forfibonacci
 
 ---
 
-![Figure 11.2: Call graph](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPython11.2.png)  
+![Figure 11.2: Call graph](./images/figure11.2.jpg)  
 Figure 11.2: Call graph.
 
 ---

@@ -188,7 +188,7 @@ The operator \[n:m\] returns the part of the string from the “n-eth” charact
 >
 > ---
 >
-> ![Figure 8.1](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure8.1.png)
+> ![Figure 8.1](./images/figure8.1.jpg)
 
 Figure 8.1: Slice indices.
 
@@ -542,7 +542,7 @@ This time we get the right answer, but it looks like the loop only ran three tim
 >
 > ---
 >
-> ![Figure 8.2](http://7xnq2o.com1.z0.glb.clouddn.com/ThinkPythonFigure8.2.png)  
+> ![Figure 8.2](./images/figure8.2.jpg)  
 > Figure 8.2: State diagram.
 >
 > ---
